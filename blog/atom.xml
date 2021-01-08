@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://crushed.manen.me/blog</id>
+    <title>Crushed Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://crushed.manen.me/blog"/>
+    <subtitle>Crushed Blog</subtitle>
+    <icon>https://crushed.manen.me/img/favicon.ico</icon>
+</feed>
